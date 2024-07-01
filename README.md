@@ -27,8 +27,7 @@ And many more! Check out my Tech Stack section for details.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=N1CQU&icon=0&color=12)](https://visitcount.itsvg.in)
-
+![](https://visitcount.itsvg.in/api?id=N1CQU&icon=0&color=12)
 ---
 
 Feel free to connect with me through any of the platforms above or explore my projects and contributions here on GitHub! 🚀
